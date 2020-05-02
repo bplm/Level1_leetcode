@@ -1,2 +1,2 @@
-# Level1_leetcode
+# Smart Levelleetcode
 Leetcode problems
